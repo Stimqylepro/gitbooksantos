@@ -6,7 +6,7 @@ Hey homies ! Vous allez trouvé toutes les informations, conseils et règles afi
 
 ## <mark style="color:blue;">**GTA / IRL**</mark> <a href="#bkmrk-gta-2f-irl" id="bkmrk-gta-2f-irl"></a>
 
-Sur GtaSantos nous mélangeons l'histoire de Grand Theft Auto et l'histoire réelle, ce choix est dû au fait que Los Santos (Ville) et San Andreas (Etat) sont une copie complète de Los Angeles et la Californie. Même style de vie, même température, même ville !\
+Sur Iceland nous mélangeons l'histoire de Grand Theft Auto et l'histoire réelle, ce choix est dû au fait que Los Santos (Ville) et San Andreas (Etat) sont une copie complète de Los Angeles et la Californie. Même style de vie, même température, même ville !\
 Nous garderons bien évidemment le nom de Los Santos vu que la map est Los Santos.\
 \
 Pour les factions de GTA, vous devrez vous informer sur les différents forums expliquant les faites passés de la faction dans le jeu.  \

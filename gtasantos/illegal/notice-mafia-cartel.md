@@ -1,6 +1,6 @@
 # 💵 Notice Mafia/Cartel
 
-Ces groupes sont l’élite de GtaSantos il seronts exclusivement donnés à nos meilleurs joueurs RolePlay.\
+Ces groupes sont l’élite de Iceland il seronts exclusivement donnés à nos meilleurs joueurs RolePlay.\
 Les Mafias / Cartels de Asentia ont pour mot d'ordre la discrétion.
 
 L’implantation de ces organisations à Los Santos (États-Unis) est très difficile…\
