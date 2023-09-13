@@ -1,7 +1,7 @@
-# 👨🎓 Rejoindre l'équipe GtaSantos
+# 👨🎓 Rejoindre l'équipe IceLand
 
 {% hint style="info" %}
-Voici, les informations utiles à savoir pour rejoindre les rangs de l’équipe de GtaSantos.
+Voici, les informations utiles à savoir pour rejoindre les rangs de l’équipe de Iceland.
 {% endhint %}
 
 ## <mark style="color:red;">Prérequis :</mark> <a href="#bkmrk-pr-c3-a9requis-3a" id="bkmrk-pr-c3-a9requis-3a"></a>
@@ -13,18 +13,18 @@ Voici, les informations utiles à savoir pour rejoindre les rangs de l’équipe
 * Avoir un RP exemplaire
 * Savoir utiliser un PC (régler un micro, paramètres graphique, paramètres FiveM ...)\
   \
-  Pour postuler, merci de remplir le formulaire ci-dessous ([https://cutt.ly/o810bVR](https://cutt.ly/o810bVR))
+  Pour postuler, merci de remplir le formulaire ci-dessous ([RECRUTEMENT OFF](https://discord.gg/meCfb4BTHd)
 
 Merci de bien vérifié vos informations avant d'envoyer le formulaire et de ne pas **PING** les Staff ! Si on ne vous trouve pas nous abandonnerons votre candidature sans pouvoir vous informer ...
 
 ## <mark style="color:red;">Priorités des rôles</mark>
 
 {% hint style="info" %}
-Le staff est là pour accompagner et encadrer la communauté de GtaSantos, que ce soit en RP ou en HRP. Il veille au bon fonctionnement en expliquant les notions du RolePlay, régler les problèmes et mettre une bonne ambiance dans le serveur.\
+Le staff est là pour accompagner et encadrer la communauté de Iceland, que ce soit en RP ou en HRP. Il veille au bon fonctionnement en expliquant les notions du RolePlay, régler les problèmes et mettre une bonne ambiance dans le serveur.\
 **Tout rôle à son importance dans une équipe.**
 {% endhint %}
 
-<mark style="color:purple;">**Responsable Staff:**</mark>\
+<mark style="color:purple;">**Gérant Staff:**</mark>\
 Chargé de la supervision et de la gestion de l'équipe du Staff du serveur RP.
 
 <mark style="color:yellow;">**Responsable Légal:**</mark>\
@@ -41,9 +41,6 @@ Ce rôle se donne aux staffs capables de donner du mouvement en RP en étant dan
 \
 <mark style="color:purple;">**Modérateur :**</mark>\
 Un modérateur est un staff confirmé, il s'occupe des problèmes les plus sérieux au niveau du RolePlay.\
-\
-<mark style="color:purple;">**Helpeur :**</mark>\
-Ce rôle est un support en jeu, il permet de gérer les problèmes les plus flagrants. Il allège le travail des modérateurs.\
 \
 <mark style="color:purple;">**Support discord :**</mark>\
 Ce rôle est actif seulement sur discord, il permet d'alléger le travail des staffs ayant des perms en jeu.

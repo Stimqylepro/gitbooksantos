@@ -1,6 +1,6 @@
 # ⚖ Sanction
 
-## Sanction serveur:
+## <mark style="color:blue;">Sanction serveur:</mark>
 
 * Après 3 jails vous subissez un ban de 24h.
 * Après le ban de 24h (1440 min), vous subissez un ban de 72h.

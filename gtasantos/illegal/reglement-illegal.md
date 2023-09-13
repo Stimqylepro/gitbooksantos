@@ -2,16 +2,16 @@
 description: >-
   Merci de lire attentivement le règlement ci-dessous. Il doit être appris mais
   surtout compris afin d'avoir une immersion cohérent et fluide une fois en jeu.
-  Il n'est applicable que sur GtaSantos!
+  Il n'est applicable que sur Iceland!
 ---
 
 # 📗 Règlement Illégal
 
 {% hint style="success" %}
-Merci de lire attentivement le règlement ci-dessous. Il doit être appris mais surtout compris afin d'avoir une immersion cohérent et fluide une fois en jeu. Il n'est applicable que sur GtaSantos!
+Merci de lire attentivement le règlement ci-dessous. Il doit être appris mais surtout compris afin d'avoir une immersion cohérent et fluide une fois en jeu. Il n'est applicable que sur Iceland!
 {% endhint %}
 
-## <mark style="color:purple;">Système Mort RP</mark>
+## <mark style="color:blue;">Système Mort RP</mark>
 
 > Un <mark style="color:green;">**CS**</mark> ( coma simple ) est un coma qui ne mène pas à la mort RP. C'est quand le personnage a été coma sans dossier.\
 > Un <mark style="color:green;">**CK**</mark> ( coma kill ) est un coma qui mène à la mort RP. C'est quand le personnage est coma avec dossier.\
@@ -21,14 +21,14 @@ Merci de lire attentivement le règlement ci-dessous. Il doit être appris mais 
 > \- Le lead du groupe a le droit de Mort RP instantané un membre de son groupe illégal ( Vous devez créer un ticket avec une preuve vidéo et une raison valable pour valider votre mort RP).\
 > \- Tout coma par un agent de l'état ( LSPD / BCSO / Gouvernement ) est compté comme CK. ( Jouez votre Fear ou prenez le risque ! )
 
-## <mark style="color:purple;">Système de Guerre</mark> <a href="#bkmrk-guerres" id="bkmrk-guerres"></a>
+## <mark style="color:blue;">Système de Guerre</mark> <a href="#bkmrk-guerres" id="bkmrk-guerres"></a>
 
 \- <mark style="color:green;">**Descente**</mark>** :** Les descentes sans armes à feu se font sans dossier, cela n'endommage que des CS. \
 **- **<mark style="color:green;">**Drive-By**</mark>** :** C'est un par groupe illégal toutes les 48h . Maximum 3 shooters.  Interdiction de descendre du véhicule.\
 **- **<mark style="color:green;">**Descente CK**</mark>** :** C’est une par groupe illégal toutes les 72h. Maximum 4 shooters. Proposez la scène dans le ticket.\
 **- **<mark style="color:green;">**Mort RP**</mark> : faire une mort RP instantanée se fait sous dossier avec de réelles raisons solides et de la cohérence de son groupe illégal. (rare)\
 \
-Pour les dossiers fait un ticket sur notre discord [illégal GtaSantos](https://discord.gg/Tr3qfzYuaz)\
+Pour les dossiers fait un ticket sur notre discord [illégal iceland](https://discord.gg/SdM5sCaFcx)\
 \
 À la fin du beef, un fear de 2 jours doit être respecté du côté où il y a un CK. Si les deux côtés ont des blessés, le beef est tassé.\
 \
@@ -47,7 +47,7 @@ Pour les dossiers fait un ticket sur notre discord [illégal GtaSantos](https://
 \- Une fusillade peut éclater lors d’une altercation et cela endommagerait seulement un CS pour les blessés,. Cet acte est une raison valable pour qu'une personne vous provoque un CK (dossier), réfléchissez bien avant de tirer !\
 \- Il est interdit de prendre des positions avant de déclencher le premier tir.
 
-## <mark style="color:purple;">Système de Drogue</mark> :&#x20;
+## <mark style="color:blue;">Système de Drogue :</mark>&#x20;
 
 <mark style="color:yellow;">**A) Général**</mark>
 
@@ -72,13 +72,13 @@ Pour les dossiers fait un ticket sur notre discord [illégal GtaSantos](https://
 * Lorsque vous vendez la drogue aux PNJ, les membres de votre groupe qui participent à la vente doivent se trouver dans la même zone / quartier que vous afin de ne pas disperser les appels LSPD
 * La vente à bord d'un véhicule est interdite ; le vendeur doit être à pieds
 
-## <mark style="color:purple;">Equipements et armes</mark>
+## <mark style="color:blue;">Equipements et armes</mark>
 
 * Vous ne pouvez sortir une arme à deux mains de nulle part. Vous devez être positionné près d'un véhicule ou posséder un grand sac visible pour justifier la sortie de telles armes. Il en va de même pour les grandes armes blanches
 * Une moto ne peut contenir d'armes volumineuses, mais seulement de petites armes blanches et armes de poing
 * Le coffre d'une voiture lambda ne peut contenir que deux armes d'assaut, deux armes lourdes et quatre armes de poing
 
-## <mark style="color:purple;">**Informations Armes**</mark>  <a href="#bkmrk-armes" id="bkmrk-armes"></a>
+## <mark style="color:blue;">**Informations Armes**</mark>  <a href="#bkmrk-armes" id="bkmrk-armes"></a>
 
 * Vos armes sont avant tout un moyen de dissuasion : privilégiez les scènes avec la parole, où la négociation est de mise. Les gun Fights sont le dernier recours, lorsque toutes les solutions sont épuisées
 * Le port du kevlar doit se faire pour une raison bien précise : vous projetez d'attaquer un convoi, ou vous craignez qu'un rendez-vous ne dégénère. Si aucune raison n'est valide, le port de ce dernier sera sanctionné
@@ -97,14 +97,14 @@ Pour les dossiers fait un ticket sur notre discord [illégal GtaSantos](https://
 \- Vous ne pouvez avoir que 3 chargeur sur vous si vous portez une arme à feu.\
 \- Pensez à garder des preuves de votre développement RP ( REC / Screen ) . Ces preuves servent à vous justifier auprès du staff en cas de problème de cohérence RP.
 
-## <mark style="color:purple;">**Point de drogue**</mark> <a href="#bkmrk-point-de-drogue" id="bkmrk-point-de-drogue"></a>
+## <mark style="color:blue;">**Point de drogue**</mark> <a href="#bkmrk-point-de-drogue" id="bkmrk-point-de-drogue"></a>
 
 &#x20;
 
 \- Il est interdit pour un civil de braquer sur un point de drogue.\
 \- Un membre d’un groupe illégal officiel a le droit de faire ce qu’il veut du civil ( sauf mort RP ) qui se trouve sur le point.&#x20;
 
-## <mark style="color:purple;">**Braquage**</mark> <a href="#bkmrk-braquages" id="bkmrk-braquages"></a>
+## <mark style="color:blue;">**Braquage**</mark> <a href="#bkmrk-braquages" id="bkmrk-braquages"></a>
 
 &#x20;
 
@@ -128,21 +128,21 @@ Sous dossier. \
 \- Un braquage doit être préparer.\
 \- On ne prend pas un otage n'importe comment et n'importe où.
 
-## <mark style="color:purple;">**Fouille et don**</mark> <a href="#bkmrk-fouille-et-dons" id="bkmrk-fouille-et-dons"></a>
+## <mark style="color:blue;">**Fouille et don**</mark> <a href="#bkmrk-fouille-et-dons" id="bkmrk-fouille-et-dons"></a>
 
 \- Il est interdit de prendre le téléphone de quelqu’un et de le garder. Regarder ce que vous avez à regarder et rendez le.\
 \- Il est interdit de donner de l’argent juste pour donner de la force. Chacun doit vouloir avoir le plus d’argent.\
 \- Si une personne coopère il est interdit de lui retirer plus de 50% de son inventaire (arme interdit).\
 \- Si une personne ne coopère pas, vous êtes dans le droit de lui retirer tout ce qu’elle a (armes comprises)\
-\- Refuser d’ouvrir son coffre ou donner son arme, est compté comme un refus de scène. Si vous jugez que la scène n’est pas légitime, merci de faire un Report après la scène ou d'ouvrir un ticket sur le discord de [GtaSantos](https://discord.gg/Tr3qfzYuaz). (Nous avons les Logs)
+\- Refuser d’ouvrir son coffre ou donner son arme, est compté comme un refus de scène. Si vous jugez que la scène n’est pas légitime, merci de faire un Report après la scène ou d'ouvrir un ticket sur le [discord de Iceland](https://discord.gg/SdM5sCaFcx). (Nous avons les Logs)
 
-## <mark style="color:purple;">**Alliance**</mark> <a href="#bkmrk-alliance" id="bkmrk-alliance"></a>
+## <mark style="color:blue;">**Alliance**</mark> <a href="#bkmrk-alliance" id="bkmrk-alliance"></a>
 
 <mark style="color:red;">**Règles**</mark>** :**\
 \- Seuls les alliance commercial sont autorisés ( Vente de drogue, trafic de traitement ou de revente. )\
 \- Des alliances cohérentes peuvent être mises en place par le Responsable  illégal.
 
-## <mark style="color:purple;">**Vêtement**</mark> <a href="#bkmrk-v-c3-aatements" id="bkmrk-v-c3-aatements"></a>
+## <mark style="color:blue;">**Vêtement**</mark> <a href="#bkmrk-v-c3-aatements" id="bkmrk-v-c3-aatements"></a>
 
 <mark style="color:red;">**Règles**</mark>** :**\
 \- Seuls les gangs de rue sont censés reconnaître les affiliations avec le bandana et les équipes sport US.\
@@ -153,12 +153,12 @@ Sous dossier. \
 Soyez cohérent avec vos tenues, ne soyez pas en tenue de luxe si votre personnage n’est pas censé avoir d’argent ou n’est pas censé vouloir avoir du style (exemple : jeune gang member de 15 ans, un jeune O’neil vivant à la ferme).\
 Soyez cohérent en fonction du lore de votre groupe et sans oublier que nous sommes à Los Santos qui représente Los Angeles (faite de votre mieux).
 
-## <mark style="color:purple;">**Taxations d'entreprises**</mark>** :**  <a href="#bkmrk-taxations-d-27entrepri" id="bkmrk-taxations-d-27entrepri"></a>
+## <mark style="color:blue;">**Taxations d'entreprises :**</mark>  <a href="#bkmrk-taxations-d-27entrepri" id="bkmrk-taxations-d-27entrepri"></a>
 
 \- Pour tout groupe  illégal, il est autorisé de taxer les entreprises légales. Cependant, le montant est limité à 30 000$ par entreprise et par semaine.\
 \- Cette taxe ne peut s'obtenir que par le biais d’une scène RolePlay et cohérente.
 
-## <mark style="color:purple;">**Relations légal / Illégal**</mark> <a href="#bkmrk-l-c3-a9gal-des-factions" id="bkmrk-l-c3-a9gal-des-factions"></a>
+## <mark style="color:blue;">**Relations légal / Illégal**</mark> <a href="#bkmrk-l-c3-a9gal-des-factions" id="bkmrk-l-c3-a9gal-des-factions"></a>
 
 <mark style="color:orange;">**Business légal**</mark>** :**\
 \- Un groupe est au maximum, patron/co-patron d’une société. ( ne pas avoir des gérants partout, soyez réaliste et fair-play )\
@@ -171,7 +171,7 @@ Soyez cohérent en fonction du lore de votre groupe et sans oublier que nous som
 \- Chaque groupe est puissante chez elle. Hors descente et drive-by si vous n’êtes pas chez vous, vous devez jouer un fear.\
 \- Porter les couleurs de votre Organisation est à vos risques et péril si la LSPD ou la LSSD est en enquête sur vous et qu’ils établissent un rapport entre les couleurs des vêtements et votre organisation vous risquez d'être placé en garde à vue pour plus d'explication.
 
-## <mark style="color:purple;">**Gestion Groupe illégal**</mark> <a href="#bkmrk-gestion-faction" id="bkmrk-gestion-faction"></a>
+## <mark style="color:blue;">**Gestion Groupe illégal**</mark> <a href="#bkmrk-gestion-faction" id="bkmrk-gestion-faction"></a>
 
 <mark style="color:orange;">**Slots dans un groupe illégal**</mark>** :**\
 25 par Gang ( Recrues compris )\
@@ -185,7 +185,7 @@ Soyez cohérent en fonction du lore de votre groupe et sans oublier que nous som
 \- Un changement de leader se fait obligatoirement par ticket sur le discord illégal du serveur..\
 \- Il est obligatoire d'entretenir son groupe, si un membre quitte le gang ou il en est viré, il ne doit plus avoir le menu d'organisation.
 
-## <mark style="color:purple;">**Extras**</mark> <a href="#bkmrk-autres" id="bkmrk-autres"></a>
+## <mark style="color:blue;">**Extras**</mark> <a href="#bkmrk-autres" id="bkmrk-autres"></a>
 
 <mark style="color:orange;">**Discord**</mark>** :**\
 \- Tout membre d'un projet doit avoir le rôle de sa faction sur le discord illégal du serveur  (membre officiel ou Recrue).\
@@ -204,11 +204,11 @@ cliquez sur “F8” copié-collé “ profile\_reticulesize -10 ” et faites e
 <mark style="color:orange;">**Jouabilité**</mark> :\
 **-** L’utilisation du /me est importante dans votre RP. Améliorez votre immersion en faisant comprendre aux joueurs ce que vous ressentez ou faites. Merci de prendre du temps dans les scènes afin de laisser le temps d’écrire.
 
-## <mark style="color:purple;">**Relation Responsable illégal**</mark>** :** <a href="#bkmrk-staff-ill-c3-a9gal-3a" id="bkmrk-staff-ill-c3-a9gal-3a"></a>
+## <mark style="color:blue;">**Relation Responsable illégal :**</mark> <a href="#bkmrk-staff-ill-c3-a9gal-3a" id="bkmrk-staff-ill-c3-a9gal-3a"></a>
 
 \- Le staff se doit d’être respectueux, nous réclamons de même pour les joueurs.\
 \- Le staff se réserve le droit d’appliquer tout type de sanction, s’il juge qu’un groupe ou un joueur a un comportement négatif pour le serveur ( mentalité GunFight, Toxic, Rage ... ).\
 \- Le staff se réserve le droit de mute toute personne atteignant l'ambiance chaleureuse du serveur.\
 \- Le staff est dans son libre arbitre de juger si un dossier est valable ou non.\
 \- Il est interdit d'harceler un staff pour une réponse rapide ou positive.\
-\- Il est interdit de contacter l'équipe staff en privé à propos de quelque chose concernant [GtaSantos Illégal](https://discord.gg/Tr3qfzYuaz). (les Tickets sont là pour ça)
+\- Il est interdit de contacter l'équipe staff en privé à propos de quelque chose concernant [Iceland illégal](https://discord.gg/SdM5sCaFcx). (les Tickets sont là pour ça)

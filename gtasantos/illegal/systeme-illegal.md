@@ -4,7 +4,7 @@
 Hey homies ! Vous allez trouvé toutes les informations, conseils et règles afin de pouvoir RolePlay dans l'illégal en sérénité. Prenez le temps de lire attentivement cette page qui va être la base du fonctionnement de votre RP.
 {% endhint %}
 
-## <mark style="color:purple;">**GTA / IRL**</mark> <a href="#bkmrk-gta-2f-irl" id="bkmrk-gta-2f-irl"></a>
+## <mark style="color:blue;">**GTA / IRL**</mark> <a href="#bkmrk-gta-2f-irl" id="bkmrk-gta-2f-irl"></a>
 
 Sur GtaSantos nous mélangeons l'histoire de Grand Theft Auto et l'histoire réelle, ce choix est dû au fait que Los Santos (Ville) et San Andreas (Etat) sont une copie complète de Los Angeles et la Californie. Même style de vie, même température, même ville !\
 Nous garderons bien évidemment le nom de Los Santos vu que la map est Los Santos.\
@@ -16,7 +16,7 @@ Le comportement d'un personnage est cohérent lorsqu'il est inspiré de la vraie
 Référez-vous à la vraie vie afin d'avoir la meilleure cohérence.\
 _Les factions de cohérence GTA sont inspirés des gangs de la vraie vie, Ballas=Bloods, Aztecas=18th street gang, Vagos=Sureños._
 
-## <mark style="color:purple;">**Factions illégales**</mark> <a href="#bkmrk-factions-ill-c3-a9gales" id="bkmrk-factions-ill-c3-a9gales"></a>
+## <mark style="color:blue;">**Factions illégales**</mark> <a href="#bkmrk-factions-ill-c3-a9gales" id="bkmrk-factions-ill-c3-a9gales"></a>
 
 Le monde criminel à Los Angeles est très vaste. Nous y trouvons généralement les gangs de rue, les clubs de motards, les familles influentes ainsi que des affiliations à des mafias et Cartel. Ils sont tous là pour la même chose, le respect, l'argent et le pouvoir. La différence entre ces groupes-là c'est la manière de faire et d'être et cela s'apprend et se développe en fonction de vos références\
 ( films, séries, docs ).\
@@ -40,7 +40,7 @@ Les références premières sont : Le Parrain, Narcos, El Chapo, Les Affranchis.
 
 <figure><img src="../.gitbook/assets/R (2).jpg" alt=""><figcaption></figcaption></figure>
 
-## <mark style="color:purple;">**Comportement bandit**</mark> <a href="#bkmrk-comportement-gangste" id="bkmrk-comportement-gangste"></a>
+## <mark style="color:blue;">**Comportement bandit**</mark> <a href="#bkmrk-comportement-gangste" id="bkmrk-comportement-gangste"></a>
 
 Il faut savoir que tout groupe née et au même niveau que tout le monde, le respect, la crainte et le pouvoir que vous avez doivent venir de votre avancement en jeu, le lore ne fait pas de vous une personne forte ou puissante. Cela est la même pour un nouveau personnage, sans actes vous n'êtes personne.\
 \

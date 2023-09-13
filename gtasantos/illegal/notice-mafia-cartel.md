@@ -6,7 +6,7 @@ Les Mafias / Cartels de Asentia ont pour mot d'ordre la discrétion.
 L’implantation de ces organisations à Los Santos (États-Unis) est très difficile…\
 En effet, les États-Unis réprimandent fortement tout acte illégal.
 
-## <mark style="color:purple;">Style vestimentaire.</mark>
+## <mark style="color:blue;">Style vestimentaire.</mark>
 
 
 
@@ -18,7 +18,7 @@ Vous devez donc adopter votre style vestimentaire en fonction de vos activités.
 
 Des mafieux italien arrêtés à Barcelone.
 
-## <mark style="color:purple;">Comportement quotidien.</mark>
+## <mark style="color:blue;">Comportement quotidien.</mark>
 
 
 
@@ -36,7 +36,7 @@ On peut notamment les retrouver dans les cafés / bars / boîtes de nuit ou tout
 
 Ils sont aussi très impliqués dans la vie politique du pays, généralement ses groupes mettent en place des stratégies établie pour soit prendre part dans la vie politique ou pour orienter un candidat ou un autre dans sa direction.
 
-## <mark style="color:purple;">Source d’argent.</mark>
+## <mark style="color:blue;">Source d’argent.</mark>
 
 <mark style="color:orange;">Trafic et vente de drogue :</mark> Monter une structure de vente de drogue établie et comptabilisée.
 
@@ -52,7 +52,7 @@ Ils sont aussi très impliqués dans la vie politique du pays, généralement se
 
 <mark style="color:orange;">Cybercrime :</mark> Trafic de carte bancaire, menace numérique, pornographihe.
 
-## <mark style="color:purple;">Colonisation de nouveaux territoires.</mark>
+## <mark style="color:blue;">Colonisation de nouveaux territoires.</mark>
 
 
 
@@ -62,7 +62,7 @@ Un exemple retentissant de colonisation réussie concerne la ville de Bardonecch
 
 Les activités économiques légales et illégales exercées par les mafias / cartels leur servent, au-delà des profits qu’elles permettent de dégager, à consolider leur pouvoir et une forme de consensus social.
 
-## <mark style="color:purple;">Conflit.</mark>
+## <mark style="color:blue;">Conflit.</mark>
 
 Lorsqu'un conflit dégénère entre deux groupes puissants, la guerre et déclaré cette guerre, va avoir plusieurs axes. :&#x20;
 
@@ -90,7 +90,7 @@ Pour une vision simplifié de ce qu’on attend d’une Mafia :&#x20;
 
 \> [C'est quoi la Mafia ? - le Professeur Gamberge](https://www.youtube.com/watch?v=2UKukl6pBGY\&t=7s)
 
-## <mark style="color:purple;">Hiérarchie :</mark>
+## <mark style="color:blue;">Hiérarchie :</mark>
 
 La hiérarchie des Familles, des Mafias et des Cartels sont différentes les unes des autres. Cependant elles ont toutes plus ou moins similaires ;&#x20;
 

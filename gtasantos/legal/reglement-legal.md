@@ -26,7 +26,7 @@ Quand un juge décide de vous mettre en fédéral, <mark style="color:green;">**
 **-** Les métiers légaux ne sont pas juste des F6 dont il faut abuser. Il faut jouer chaque scène à son maximum : _les scènes de réanimation, de réparation, de facturation, etc. sont des scènes telles que les autres._ \
 \- Chaque personne souhaitant faire partie d'une entreprise doit <mark style="color:red;">**obligatoirement**</mark> avoir payé toutes ses factures.
 
-## <mark style="color:purple;">**I - COMMENT REJOINDRE LE LÉGAL ?**</mark>  <a href="#bkmrk-comment-rejoindre-le" id="bkmrk-comment-rejoindre-le"></a>
+## <mark style="color:blue;">**I - COMMENT REJOINDRE LE LÉGAL ?**</mark>  <a href="#bkmrk-comment-rejoindre-le" id="bkmrk-comment-rejoindre-le"></a>
 
 &#x20;
 
@@ -34,9 +34,9 @@ Quand un juge décide de vous mettre en fédéral, <mark style="color:green;">**
 **-** Vous pouvez d'un côté, favoriser de prendre <mark style="color:orange;">**contact In Game**</mark> avec des employés du métier qui vous attire, ainsi que de demander à passer un entretien.\
 **-** D'un autre côté, vous pouvez également passer par <mark style="color:orange;">**notre Discord Légal**</mark> afin de remplir les candidatures prédéfinies.
 
-## <mark style="color:red;">Discord Légal de Asentia</mark>
+## <mark style="color:red;">Discord Légal de Iceland :</mark> [<mark style="color:red;">https://discord.gg/kNx7d9tHmT</mark>](https://discord.gg/kNx7d9tHmT)
 
-## <mark style="color:purple;">**II - COMMENT SE COMPORTER / AGIR ?**</mark>  <a href="#bkmrk-comment-ce-comporter" id="bkmrk-comment-ce-comporter"></a>
+## <mark style="color:blue;">**II - COMMENT SE COMPORTER / AGIR ?**</mark>  <a href="#bkmrk-comment-ce-comporter" id="bkmrk-comment-ce-comporter"></a>
 
 &#x20;
 
@@ -55,7 +55,7 @@ Quand un juge décide de vous mettre en fédéral, <mark style="color:green;">**
 **-** Lorsque vous êtes en service, respectez les tenues exigées par votre patron cela <mark style="color:orange;">**ajoute de la cohérence RolePlay**</mark> à votre personnage ainsi qu'à votre métier.\
 **-** <mark style="color:orange;">**Organiser un événement d’entreprise se fait avec une organisation exemplaire**</mark>**.** A cet égard, cela est à vous de démarcher les joueurs In Game pour les faire participer à votre événement, en utilisant tous les moyens disponibles à votre disposition : bouche-à-oreilles, réseaux sociaux, Weazel News ou encore, vos contacts privés.&#x20;
 
-## <mark style="color:purple;">**III - Démissionner / Mort RP / Register**</mark> <a href="#bkmrk-c2-a0iv-d-c3-a9missionn-c3-a9-2f" id="bkmrk-c2-a0iv-d-c3-a9missionn-c3-a9-2f"></a>
+## <mark style="color:blue;">**III - Démissionner / Mort RP / Register**</mark> <a href="#bkmrk-c2-a0iv-d-c3-a9missionn-c3-a9-2f" id="bkmrk-c2-a0iv-d-c3-a9missionn-c3-a9-2f"></a>
 
 &#x20;
 

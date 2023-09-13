@@ -4,7 +4,7 @@
 Cette notice est ce qui va vous servir de guide concernant le RP gang de rue de Los Angeles. Inspirez-vous-en au maximum afin d'avoir un meilleur réalisme en jeu.
 {% endhint %}
 
-## <mark style="color:purple;">1. MENTALITÉ AMÉRICAINE</mark> <a href="#bkmrk-1.-mentalit-c3-89-am-c3-89rica" id="bkmrk-1.-mentalit-c3-89-am-c3-89rica"></a>
+## <mark style="color:blue;">1. MENTALITÉ AMÉRICAINE</mark> <a href="#bkmrk-1.-mentalit-c3-89-am-c3-89rica" id="bkmrk-1.-mentalit-c3-89-am-c3-89rica"></a>
 
 \
 Les Etats-Unis est un pays connu pour son rêve américain, c'est un pays où l'on peut partir de rien et monter dans les plus hautes sphères du pays, c'est ce qui rend les Etats-Unis fascinant. En revanche, c'est aussi un pays qui peut amener à vivre un cauchemar américain, c'est -à -dire une descente aux enfers très rapidement et dans un milieu très sale.&#x20;
@@ -13,7 +13,7 @@ Les Etats-Unis ne fournissent pas autant d'aides qu'en France. Les minorités au
 
 La culture des gangs met en avant un aspect de séparation entre communauté et mentalité. Les gangsters américains aiment bien se montrer, montrer leur appartenance, leur argent, leur pouvoir, etc ...
 
-## <mark style="color:purple;">2. STYLE VESTIMENTAIRE</mark> <a href="#bkmrk-2.-style-vestimentai" id="bkmrk-2.-style-vestimentai"></a>
+## <mark style="color:blue;">2. STYLE VESTIMENTAIRE</mark> <a href="#bkmrk-2.-style-vestimentai" id="bkmrk-2.-style-vestimentai"></a>
 
 \
 Il y a deux types de style vestimentaire à Los Santos. Il y a la Old School et la New School.&#x20;
@@ -27,7 +27,7 @@ Les hoods mettent beaucoup d'habits d'équipe de foot us, basket, hockey et base
 
 <figure><img src="../.gitbook/assets/delman-heights-bloods1.webp" alt=""><figcaption></figcaption></figure>
 
-## <mark style="color:purple;">3. COMPORTEMENT QUOTIDIEN</mark> <a href="#bkmrk-3.-comportement-quot" id="bkmrk-3.-comportement-quot"></a>
+## <mark style="color:blue;">3. COMPORTEMENT QUOTIDIEN</mark> <a href="#bkmrk-3.-comportement-quot" id="bkmrk-3.-comportement-quot"></a>
 
 {% hint style="info" %}
 Le comportement des set members dans la vie n'est pas comme on peut le voir à la télé, ils ne tirent que très peu et ne se battent pas tous les jours, ce sont des humains comme tout le monde. Il faut savoir que l'ambiance dans un hood est très chaleureux et familial, les "gangsters" ne sont pas si méchants que ça du moins ils le sont seulement contre leurs opps.
@@ -43,7 +43,7 @@ Type de spot :\
 
 <figure><img src="../.gitbook/assets/R (3).jpg" alt=""><figcaption></figcaption></figure>
 
-## <mark style="color:purple;">4. SOURCE D'ARGENT</mark> <a href="#bkmrk-4.-source-d-27argent" id="bkmrk-4.-source-d-27argent"></a>
+## <mark style="color:blue;">4. SOURCE D'ARGENT</mark> <a href="#bkmrk-4.-source-d-27argent" id="bkmrk-4.-source-d-27argent"></a>
 
 \
 \- <mark style="color:yellow;">Trafic et vente de drogue</mark> : C'est le moyen le plus utilisé, il y a beaucoup de dealer dans un set.\
@@ -52,7 +52,7 @@ Type de spot :\
 \- <mark style="color:yellow;">Jobs Légaux</mark> : Vigil, être artiste, travailler dans une société ( tabac/alcool ...). _Vous pouvez bien évidemment évoluer là où vous travailler._\
 \- <mark style="color:yellow;">Vol et racket</mark> : Un gangster peut être un voleur d'habits, de voitures et de divers objets. Le racket est une banale chose pour se faire un petit billet, ce n'est pas un travail.
 
-## <mark style="color:purple;">5. LES BEEFS</mark> <a href="#bkmrk-5.-les-beefs" id="bkmrk-5.-les-beefs"></a>
+## <mark style="color:blue;">5. LES BEEFS</mark> <a href="#bkmrk-5.-les-beefs" id="bkmrk-5.-les-beefs"></a>
 
 \
 Un beef c'est le fait qu'une embrouille éclate entre 2 personnes, 2 groupes, 2 cliques ou 2 set ( rarement ). L'origine de l'embrouille peut être dû au passé et elle est poursuivie par prétexte que les anciens ont toujours fait la guerre donc la guerre continue ou cela peut venir d'une arnaque, d'une bagarre, d'un dissrespect, d'une menace, de racket. Le comportement Gangsta amènera tôt ou tard des beefs car c'est un comportement provocateur, que ce soit dans la démarche, le choix de sa casquette, comment il parle, etc ...
@@ -65,7 +65,7 @@ Les issues à un beef :\
 Ce n'est pas parce qu'un membre du set est en embrouille avec quelqu'un que tout le set est automatiquement lié au beef. Un beef entre set se créer lorsque beaucoup de membres du set commence à s'impliquer dans le beef. Un beef ne veut pas dire aller tirer directement c'est tout un comportement d'opposition envers vos ennemis, bagarre, insulte et aussi les tirs quand il faut.
 {% endhint %}
 
-## <mark style="color:purple;">6. LES REVENDICATIONS</mark> <a href="#bkmrk-7.-les-revendication" id="bkmrk-7.-les-revendication"></a>
+## <mark style="color:blue;">6. LES REVENDICATIONS</mark> <a href="#bkmrk-7.-les-revendication" id="bkmrk-7.-les-revendication"></a>
 
 \
 Les membres de set revendiquent constamment leurs quartiers, affiliations, sets, cliques, point de drogue, etc ... Les revendications se font de plusieurs manières :\
@@ -75,7 +75,7 @@ Les membres de set revendiquent constamment leurs quartiers, affiliations, sets,
 \- Les habits servent à montrer son appartenance. L'utilisation des casquettes, maillots et bandanas d'équipe NBA, NHL, NFL et MLB sont omniprésentes dans les sets.\
 \- Les signes de gang servent à montrer d'où tu viens, ton affiliation ( Gang ) et set.
 
-## <mark style="color:purple;">7. LA HIERACHIE D'UN GANG</mark> <a href="#bkmrk-8.-la-hierachie-d-27un" id="bkmrk-8.-la-hierachie-d-27un"></a>
+## <mark style="color:blue;">7. LA HIERACHIE D'UN GANG</mark> <a href="#bkmrk-8.-la-hierachie-d-27un" id="bkmrk-8.-la-hierachie-d-27un"></a>
 
 {% hint style="info" %}
 Tout d'abord, il faut savoir que dans un gang ou un set il n'y a pas de chef qui contrôle tout.
@@ -93,7 +93,7 @@ En étant membre d'un set, il y a encore plusieurs niveaux au sein du gang. Ce s
 2 - Gangsta : C'est un set member validé dans son set. Qui a pas mal fait pour le set et qui accepté des autres.\
 3 - OG : Le rôle le plus important dans un gang. Il s'acquiert obligatoirement par l'ancienneté ( IRL = min 10 ans, In RP = min 6 sem ) et ensuite en fonction des actes dans le gang. Un OG devient OG soit parce qu'il incarne un grand respect ou une grande crainte.
 
-## <mark style="color:purple;">8. LES ÉVÉNEMENTS INTER-GANGS</mark> <a href="#bkmrk-9.-les-c3-89v-c3-89nements-in" id="bkmrk-9.-les-c3-89v-c3-89nements-in"></a>
+## <mark style="color:blue;">8. LES ÉVÉNEMENTS INTER-GANGS</mark> <a href="#bkmrk-9.-les-c3-89v-c3-89nements-in" id="bkmrk-9.-les-c3-89v-c3-89nements-in"></a>
 
 \
 \- <mark style="color:orange;">**BikeLife**</mark> c'est un mode de vie, tout tourne autour de la moto pour eux. Ils manifestent un mécontentement envers une critique ( de l'État ou autre ) ou pour fêter quelque chose en faisant des rodéos. Beaucoup de set members ont cette mentalité et la plupart pratiquent habituellement la bécane.\
@@ -106,7 +106,7 @@ Il existe événements assez spéciaux dans un hood :\
 
 <figure><img src="../.gitbook/assets/6be545-20210710234611_1.webp" alt=""><figcaption></figcaption></figure>
 
-## <mark style="color:purple;">10. EXTRAS !</mark> <a href="#bkmrk-10.-extras-21" id="bkmrk-10.-extras-21"></a>
+## <mark style="color:blue;">10. EXTRAS !</mark> <a href="#bkmrk-10.-extras-21" id="bkmrk-10.-extras-21"></a>
 
 ### <mark style="color:red;">**Lexique :**</mark>
 

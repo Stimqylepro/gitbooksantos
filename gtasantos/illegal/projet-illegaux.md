@@ -1,12 +1,12 @@
 # 💡 Projet illégaux
 
 {% hint style="danger" %}
-Ici vous trouverez toutes les informations nécessaires pour pouvoir récupérer une faction illégal sur GtaSantos.
+Ici vous trouverez toutes les informations nécessaires pour pouvoir récupérer une faction illégal sur Iceland.
 {% endhint %}
 
-## <mark style="color:purple;">**Pour projet de récupérer un groupe Illégal?**</mark>  <a href="#bkmrk-r-c3-a9cup-c3-a9rer-une-factio" id="bkmrk-r-c3-a9cup-c3-a9rer-une-factio"></a>
+## <mark style="color:blue;">**Pour projet de récupérer un groupe Illégal?**</mark>  <a href="#bkmrk-r-c3-a9cup-c3-a9rer-une-factio" id="bkmrk-r-c3-a9cup-c3-a9rer-une-factio"></a>
 
-Tout d'abord un groupe illégal veut dire groupement, organisme ou bien même structure, elle peut être légal ou illégal. En ce qui nous concerne c'est l'illégal, celles disponibles sont renseigné sur le [discord GtaSantos](https://discord.gg/Tr3qfzYuaz) _(Le lien vous redirigera vers notre discord)_.\
+Tout d'abord un groupe illégal veut dire groupement, organisme ou bien même structure, elle peut être légal ou illégal. En ce qui nous concerne c'est l'illégal, celles disponibles sont renseigné sur le [discord iceland](https://discord.gg/SdM5sCaFcx) _(Le lien vous redirigera vers notre discord)_.\
 \
 Récupérer un groupe doit être basé sur une envie réelle et non pas passagère. Vous ne devez pas visé à récupérer un projet si vous hésitez, si vous ne connaissez pas le lore et la cohérence du groupe voulu ou si vous n'avez aucune expérience RP. Vous risquez plus d'être dégouter du RolePlay qu'autre chose.\
 \
@@ -46,7 +46,7 @@ Le dossier doit être complet, ordonné et lisible. Inutile de prendre des pré 
 ## <mark style="color:yellow;">**3 | Ticket et officialisation**</mark> <a href="#bkmrk-3-7c" id="bkmrk-3-7c"></a>
 
 \
-\- Ouvrir un ticket sur le discord[ illégal GtaSantos](https://discord.gg/Tr3qfzYuaz) _(Le lien vous redirigera vers notre discord)_**.**\
+\- Ouvrir un ticket sur le discord [illégal Iceland](https://discord.gg/SdM5sCaFcx) _(Le lien vous redirigera vers notre discord)_**.**\
 \- Déposez votre dossier.\
 \- Attendez la réponse d'un Responsable Illégal.\
 \

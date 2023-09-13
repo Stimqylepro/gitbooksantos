@@ -28,7 +28,7 @@
 
 * [📕 Prologue](serveur/prologue.md)
 * [📗 Création de son personnage](serveur/creation-de-son-personnage.md)
-* [👨🎓 Rejoindre l'équipe GtaSantos](serveur/rejoindre-lequipe-gtasantos.md)
+* [👨🎓 Rejoindre l'équipe IceLand](serveur/rejoindre-lequipe-iceland.md)
 * [💎 F.A.Q](serveur/f.a.q.md)
 
 ## 💬 Discord
@@ -42,4 +42,3 @@
 * [⚖ Sanction](autres/sanction.md)
 * [☠ Wipe](autres/wipe.md)
 * [🛒 Boutique](autres/boutique.md)
-* [🙌 Administration](autres/administration.md)
