@@ -32,7 +32,7 @@ description: >-
 Les réticules personnalisés appelés "CrossAir" sont interdit sur le serveur. Tout avantage donné sur\
 Le staff encourage les joueurs à retiré le réticule de base afin d'avoir un meilleur fair-play et offrir plusieurs portes de sortie.\
 \
-Enlever son réticule : FiveM => GTASANTOS => F8 => Coller "**profile\_reticulesize -10**" => Appuyez Entrer.&#x20;
+Enlever son réticule : FiveM => ICELAND => F8 => Coller "**profile\_reticulesize -10**" => Appuyez Entrer.&#x20;
 
 ## <mark style="color:purple;">**Comportement toxique :**</mark>
 
@@ -52,7 +52,7 @@ Toute utilisation de modifications graphiques permettant d’obtenir un avantage
 
 ***
 
-## <mark style="color:purple;">Roleplay :</mark>
+## <mark style="color:blue;">Roleplay :</mark>
 
 <figure><img src=".gitbook/assets/armes interditesV2.png" alt=""><figcaption><p><mark style="color:red;"><strong>La possession d'armes réservée exclusivement aux membres de la LSPD &#x26; BCSO (comme ci-dessus pour la LSPD) est strictement interdite, sous peine d'un Wipe. Si vous en possédez une, veuillez contacter un membre de l'équipe de modération et remettre l'arme en question pour qu'elle soit détruite.</strong></mark></p></figcaption></figure>
 
@@ -79,7 +79,7 @@ Toute utilisation de modifications graphiques permettant d’obtenir un avantage
 {% hint style="danger" %}
 **Message du staff !**\
 \
-Le règlement est obligatoire pour tous les joueurs de GtaSantos. Il doit être respecté lorsque vous vous connectez en jeu.\
+Le règlement est obligatoire pour tous les joueurs de IceLand. Il doit être respecté lorsque vous vous connectez en jeu.\
 \
 Le staff se réserve le droit de mettre la sanction qu'il souhaite s'il juge que vous n'avez pas respecté une règle ou qu'êtes à l'encontre de la méta du serveur. La sanction est plus ou moins lourde en fonction de votre antécédent et votre sérieux.\
 \
