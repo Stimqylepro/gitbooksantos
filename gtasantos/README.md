@@ -6,14 +6,14 @@ description: >-
 
 # 📕 Général
 
-## <mark style="color:purple;">**Type de coma :**</mark>
+## <mark style="color:blue;">**Type de coma :**</mark>
 
 * Lorsque vous êtes KO (via coups de poing ou coup derrière la nuque), inconscient (malaise ou coup porté par arme blanche) ou coma (les plus graves blessures), il va de soi que vous ne pouvez plus communiquer avec les personnes qui vous entourent. Vous vous souvenez très vaguement de tout ce qu'il s'est passé durant les 15 minutes qui ont précédé votre perte connaissance, mais ne pourrez pas prendre en compte les évènement survenus durant la période d'inconscience
 * Si vous tombé coma par arme à feu, vous ne vous souvenez plus du tout de ce qui vous êtes arrivé.
 * &#x20;Après un coma, vous devez joué votre pain obligatoirement, cela peut aller d'une heure à deux jours. (cohérence blessure)
 * Après un coma, il est obligé pour vous d'appliquer un fear général. (comportement discret).
 
-## <mark style="color:purple;">**Genre de RP :**</mark>
+## <mark style="color:blue;">**Genre de RP :**</mark>
 
 <mark style="color:orange;">**Les interdits :**</mark>\
 \- RP terroriste ou qui fait à l'apologie au terrorisme ou qui est d'accord avec le terrorisme.\
@@ -27,14 +27,14 @@ description: >-
 \- RP Sexe.\
 &#x20;                                                                &#x20;
 
-## <mark style="color:purple;">**Réticule :**</mark>
+## <mark style="color:blue;">**Réticule :**</mark>
 
 Les réticules personnalisés appelés "CrossAir" sont interdit sur le serveur. Tout avantage donné sur\
 Le staff encourage les joueurs à retiré le réticule de base afin d'avoir un meilleur fair-play et offrir plusieurs portes de sortie.\
 \
 Enlever son réticule : FiveM => ICELAND => F8 => Coller "**profile\_reticulesize -10**" => Appuyez Entrer.&#x20;
 
-## <mark style="color:purple;">**Comportement toxique :**</mark>
+## <mark style="color:blue;">**Comportement toxique :**</mark>
 
 Trashtalk : Les insultes sans raison RP sont interdites.\
 Harcèlement : Tout forcing Hors RolePlay est interdit. \
@@ -44,7 +44,7 @@ Spam :  Insulter en continue fortement dans son micro est interdit. Les insultes
 SoundBoard : Mettre sa musique préféré à fonds égoïstement est interdit.\
 Mentalité Gunfight : Ne penser qu'à tirer et tuer.
 
-## <mark style="color:purple;">Pack Graphique :</mark>
+## <mark style="color:blue;">Pack Graphique :</mark>
 
 Toute utilisation de modifications graphiques permettant d’obtenir un avantage ou de personnaliser l’expérience de combat aux armes est interdite. (Exemple: Balles traçantes, Kill effect, Clearnight, Clearprops, Clearwater, etc…) Les packs d’optimisation sont autorisés dans la mesure où ils ne vous donnent aucun avantage compétitif dans votre expérience de jeu.
 
