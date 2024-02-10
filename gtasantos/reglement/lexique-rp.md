@@ -3,7 +3,7 @@
 
 
 {% hint style="success" %}
-Cette page est le pilier principal du bon fonctionnement RolePlay sur Iceland. Il est créé pour donner une immersion et une cohérence réaliste à son jeu. Le règlement s'applique à tous et doit être respecté par tous.\
+Cette page est le pilier principal du bon fonctionnement RolePlay sur Biglife. Il est créé pour donner une immersion et une cohérence réaliste à son jeu. Le règlement s'applique à tous et doit être respecté par tous.\
 Merci de lire attentivement, il doit être appris et compris !
 {% endhint %}
 
@@ -34,7 +34,7 @@ C'est le fait de ne pas prendre en compte l'environnement dans lequel votre pers
 
 ## <mark style="color:blue;">**PowerGaming :**</mark>
 
-C'est le fait de réaliser en jeu des scènes physiquement irréalistes. Cela est interdit sur Asentia.\
+C'est le fait de réaliser en jeu des scènes physiquement irréalistes. Cela est interdit sur Biglife.\
 ( Exemple : Rouler en super-sportive en montagne, voir derrière soit, s'enfuir en étant menotté... )
 
 ## <mark style="color:blue;">**MétaGaming :**</mark>
@@ -132,7 +132,7 @@ C'est lorsque vous mettez quelqu'un à terre, récupérer son arme ou son équip
 ## <mark style="color:blue;">**Remboursement :**</mark>
 
 \- Les remboursements de dollars, arme et objets ne sont possible qu'en cas de bug avec preuves à l'appuie. \
-\- Les remboursement de GreenCoins sont possible sous un délais de 14 jours si vous n'avez pas utilisé vos GreenCoins. Merci de prendre le temps de choisir.
+\- Les remboursement de Coins sont possible sous un délais de 14 jours si vous n'avez pas utilisé vos Coins. Merci de prendre le temps de choisir.
 
 
 
@@ -157,13 +157,13 @@ Tout autre type de braquage se fait par la décision du staff sous dossier.&#x20
 ## <mark style="color:blue;">**Arme :**</mark>
 
 \- La vente, le prêt et le don d'arme est interdit sur le serveur. La procuration se fait au près du BlackMarket, merci d'ouvrir un ticket.\
-\- Les ventes de tout objet présent sur Asentia avec de l'argent réel est interdit.\
+\- Les ventes de tout objet présent sur Biglife avec de l'argent réel est interdit.\
 \- Tout membre des forces de l'ordre de San Andreas ( Los Santos/Sandy Shore/Blaine County ) est dans son droit de retiré toute arme possédez illégalement.\
 \- Pensez à garder des preuves de votre développement RP ( REC / Screen ) . Ces preuves servent à vous justifier auprès du staff en cas de problème de cohérence RP .
 
 ## <mark style="color:blue;">**Don et fouille**</mark>
 
-\- Il est interdit de donné plus de 20 000$ à un joueur sans raison valable.\
+\- Il est interdit de donné plus de 50,000$ à un joueur sans raison valable.\
 \- Il est interdit de récupérer plus de 50% de l'inventaire et toucher aux armes si le personnage ne coopère pas avec vous.
 
 
@@ -171,7 +171,7 @@ Tout autre type de braquage se fait par la décision du staff sous dossier.&#x20
 {% hint style="danger" %}
 **Message du staff !**\
 \
-Le règlement est obligatoire pour tous les joueurs de Iceland. Il doit être respecté lorsque vous vous connectez en jeu.\
+Le règlement est obligatoire pour tous les joueurs de BigLife. Il doit être respecté lorsque vous vous connectez en jeu.\
 \
 Le staff se réserve le droit de mettre la sanction qu'il souhaite s'il juge que vous n'avez pas respecté une règle ou qu'êtes à l'encontre de la méta du serveur. La sanction est plus ou moins lourde en fonction de votre antécédent et votre sérieux.\
 \

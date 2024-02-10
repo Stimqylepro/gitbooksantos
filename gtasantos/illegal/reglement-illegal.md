@@ -2,13 +2,13 @@
 description: >-
   Merci de lire attentivement le règlement ci-dessous. Il doit être appris mais
   surtout compris afin d'avoir une immersion cohérent et fluide une fois en jeu.
-  Il n'est applicable que sur Iceland!
+  Il n'est applicable que sur BigLife!
 ---
 
 # 📗 Règlement Illégal
 
 {% hint style="success" %}
-Merci de lire attentivement le règlement ci-dessous. Il doit être appris mais surtout compris afin d'avoir une immersion cohérent et fluide une fois en jeu. Il n'est applicable que sur Iceland!
+Merci de lire attentivement le règlement ci-dessous. Il doit être appris mais surtout compris afin d'avoir une immersion cohérent et fluide une fois en jeu. Il n'est applicable que sur BigLife!
 {% endhint %}
 
 ## <mark style="color:blue;">Système Mort RP</mark>
@@ -28,7 +28,7 @@ Merci de lire attentivement le règlement ci-dessous. Il doit être appris mais 
 **- **<mark style="color:green;">**Descente CK**</mark>** :** C’est une par groupe illégal toutes les 72h. Maximum 4 shooters. Proposez la scène dans le ticket.\
 **- **<mark style="color:green;">**Mort RP**</mark> : faire une mort RP instantanée se fait sous dossier avec de réelles raisons solides et de la cohérence de son groupe illégal. (rare)\
 \
-Pour les dossiers fait un ticket sur notre discord [illégal iceland](https://discord.gg/SdM5sCaFcx)\
+Pour les dossiers fait un ticket sur notre discord illégal BigLife\
 \
 À la fin du beef, un fear de 2 jours doit être respecté du côté où il y a un CK. Si les deux côtés ont des blessés, le beef est tassé.\
 \
@@ -134,7 +134,7 @@ Sous dossier. \
 \- Il est interdit de donner de l’argent juste pour donner de la force. Chacun doit vouloir avoir le plus d’argent.\
 \- Si une personne coopère il est interdit de lui retirer plus de 50% de son inventaire (arme interdit).\
 \- Si une personne ne coopère pas, vous êtes dans le droit de lui retirer tout ce qu’elle a (armes comprises)\
-\- Refuser d’ouvrir son coffre ou donner son arme, est compté comme un refus de scène. Si vous jugez que la scène n’est pas légitime, merci de faire un Report après la scène ou d'ouvrir un ticket sur le [discord de Iceland](https://discord.gg/SdM5sCaFcx). (Nous avons les Logs)
+\- Refuser d’ouvrir son coffre ou donner son arme, est compté comme un refus de scène. Si vous jugez que la scène n’est pas légitime, merci de faire un Report après la scène ou d'ouvrir un ticket sur le discord de BigLife. (Nous avons les Logs)
 
 ## <mark style="color:blue;">**Alliance**</mark> <a href="#bkmrk-alliance" id="bkmrk-alliance"></a>
 
@@ -211,4 +211,4 @@ cliquez sur “F8” copié-collé “ profile\_reticulesize -10 ” et faites e
 \- Le staff se réserve le droit de mute toute personne atteignant l'ambiance chaleureuse du serveur.\
 \- Le staff est dans son libre arbitre de juger si un dossier est valable ou non.\
 \- Il est interdit d'harceler un staff pour une réponse rapide ou positive.\
-\- Il est interdit de contacter l'équipe staff en privé à propos de quelque chose concernant [Iceland illégal](https://discord.gg/SdM5sCaFcx). (les Tickets sont là pour ça)
+\- Il est interdit de contacter l'équipe staff en privé à propos de quelque chose concernant BigLife illégal. (les Tickets sont là pour ça)

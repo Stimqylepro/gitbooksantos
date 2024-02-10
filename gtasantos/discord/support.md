@@ -9,13 +9,13 @@ Ce n'est pas au staff de chercher quel est le problème.
 
 <mark style="color:blue;">**Besoin d'aide ?**</mark>&#x20;
 
-Ouvrez un ticket sur notre [**Discord** ](https://discord.gg/meCfb4BTHd)sous la rubrique besoins d'aide, une fois le ticket ouvert indiqué nous quel est votre problème clairement et simplement . Un support discord se chargera de vous aiguiller dans votre démarche.
+Ouvrez un ticket sur notre [**Discord** ](https://discord.gg/Yej9amej8b)sous la rubrique besoins d'aide, une fois le ticket ouvert indiqué nous quel est votre problème clairement et simplement . Un support discord se chargera de vous aiguiller dans votre démarche.
 
 <figure><img src="../.gitbook/assets/Capture d&#x27;écran 2023-09-13 194741.png" alt=""><figcaption></figcaption></figure>
 
 ### <mark style="color:blue;">**Vous avez été victime d'un bannissement non justifié ?**</mark>
 
-Ouvrez un ticket sur notre [**Discord**](https://discord.gg/meCfb4BTHd) sous la rubrique demande déban, une fois le ticket ouvert respectez bien le modèle  mis en place ci-dessous :&#x20;
+Ouvrez un ticket sur notre [**Discord** ](https://discord.gg/Yej9amej8b)sous la rubrique demande déban, une fois le ticket ouvert respectez bien le modèle  mis en place ci-dessous :&#x20;
 
 <mark style="color:yellow;">**Nom :**</mark>\
 <mark style="color:yellow;">**Prénom :**</mark>\

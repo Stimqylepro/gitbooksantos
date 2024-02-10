@@ -32,7 +32,7 @@ description: >-
 Les réticules personnalisés appelés "CrossAir" sont interdit sur le serveur. Tout avantage donné sur\
 Le staff encourage les joueurs à retiré le réticule de base afin d'avoir un meilleur fair-play et offrir plusieurs portes de sortie.\
 \
-Enlever son réticule : FiveM => ICELAND => F8 => Coller "**profile\_reticulesize -10**" => Appuyez Entrer.&#x20;
+Enlever son réticule : FiveM => BIGLIFE => F8 => Coller "**profile\_reticulesize -10**" => Appuyez Entrer.&#x20;
 
 ## <mark style="color:blue;">**Comportement toxique :**</mark>
 
@@ -79,7 +79,7 @@ Toute utilisation de modifications graphiques permettant d’obtenir un avantage
 {% hint style="danger" %}
 **Message du staff !**\
 \
-Le règlement est obligatoire pour tous les joueurs de IceLand. Il doit être respecté lorsque vous vous connectez en jeu.\
+Le règlement est obligatoire pour tous les joueurs de BIGLIFE. Il doit être respecté lorsque vous vous connectez en jeu.\
 \
 Le staff se réserve le droit de mettre la sanction qu'il souhaite s'il juge que vous n'avez pas respecté une règle ou qu'êtes à l'encontre de la méta du serveur. La sanction est plus ou moins lourde en fonction de votre antécédent et votre sérieux.\
 \

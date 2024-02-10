@@ -31,12 +31,12 @@ Le RP, ou Role Play, consiste à incarner complètement un personnage dans un je
 
 ## <mark style="color:blue;">**Comment rejoindre le serveur ?**</mark>
 
-<mark style="color:blue;">Solution 1</mark> : Cliquez sur Jouer et écrivez dans le champ de texte Iceland plus qu'à cliquez sur le Serveur et cliquez sur Se connectez.&#x20;
+<mark style="color:blue;">Solution 1</mark> : Cliquez sur Jouer et écrivez dans le champ de texte BigLife plus qu'à cliquez sur le Serveur et cliquez sur Se connectez.&#x20;
 
 <mark style="color:blue;">Solution 2</mark> : Pressez la touche F8 puis copiez collez ce texte :
 
 ```
-connect 83.150.218.10:30161
+connect SOON
 ```
 
 dans le champ de texte de la console FiveM

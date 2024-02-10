@@ -3,7 +3,6 @@
 ## 📑 Règlement&#x20;
 
 * [📕 Général](README.md)
-* [👤 Roleplay](reglement/roleplay.md)
 * [🖊 Lexique RP](reglement/lexique-rp.md)
 * [📙 Règlement Légal & Illégal](reglement/reglement-legal-and-illegal.md)
 
@@ -28,7 +27,7 @@
 
 * [📕 Prologue](serveur/prologue.md)
 * [📗 Création de son personnage](serveur/creation-de-son-personnage.md)
-* [👨🎓 Rejoindre l'équipe IceLand](serveur/rejoindre-lequipe-iceland.md)
+* [👨🎓 Rejoindre l'équipe BigLife](serveur/rejoindre-lequipe-biglife.md)
 * [💎 F.A.Q](serveur/f.a.q.md)
 
 ## 💬 Discord

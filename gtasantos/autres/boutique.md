@@ -2,8 +2,6 @@
 
 <mark style="color:purple;">Ces règles sont considérées comme contenue dès lors qu'un achat boutique est réalisé</mark>
 
-<mark style="color:purple;">Lien de la boutique :</mark> [<mark style="color:purple;">https://discord.gg/meCfb4BTHd</mark>](https://discord.gg/meCfb4BTHd)
-
 ## RÈGLE
 
 * <mark style="color:red;">Litige un achat boutique est interdit</mark>, il conduira à un bannissement permanent automatiquement du serveur.

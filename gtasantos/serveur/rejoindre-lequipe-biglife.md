@@ -1,7 +1,7 @@
-# 👨🎓 Rejoindre l'équipe IceLand
+# 👨🎓 Rejoindre l'équipe BigLife
 
 {% hint style="info" %}
-Voici, les informations utiles à savoir pour rejoindre les rangs de l’équipe de Iceland.
+Voici, les informations utiles à savoir pour rejoindre les rangs de l’équipe de BigLife.
 {% endhint %}
 
 ## <mark style="color:red;">Prérequis :</mark> <a href="#bkmrk-pr-c3-a9requis-3a" id="bkmrk-pr-c3-a9requis-3a"></a>
@@ -13,14 +13,14 @@ Voici, les informations utiles à savoir pour rejoindre les rangs de l’équipe
 * Avoir un RP exemplaire
 * Savoir utiliser un PC (régler un micro, paramètres graphique, paramètres FiveM ...)\
   \
-  Pour postuler, merci de remplir le formulaire ci-dessous ([RECRUTEMENT OFF](https://discord.gg/meCfb4BTHd)
+  Pour postuler, merci de remplir le formulaire sur le discoord de BigLife
 
 Merci de bien vérifié vos informations avant d'envoyer le formulaire et de ne pas **PING** les Staff ! Si on ne vous trouve pas nous abandonnerons votre candidature sans pouvoir vous informer ...
 
 ## <mark style="color:red;">Priorités des rôles</mark>
 
 {% hint style="info" %}
-Le staff est là pour accompagner et encadrer la communauté de Iceland, que ce soit en RP ou en HRP. Il veille au bon fonctionnement en expliquant les notions du RolePlay, régler les problèmes et mettre une bonne ambiance dans le serveur.\
+Le staff est là pour accompagner et encadrer la communauté de BigLife, que ce soit en RP ou en HRP. Il veille au bon fonctionnement en expliquant les notions du RolePlay, régler les problèmes et mettre une bonne ambiance dans le serveur.\
 **Tout rôle à son importance dans une équipe.**
 {% endhint %}
 

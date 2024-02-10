@@ -34,8 +34,6 @@ Quand un juge décide de vous mettre en fédéral, <mark style="color:green;">**
 **-** Vous pouvez d'un côté, favoriser de prendre <mark style="color:orange;">**contact In Game**</mark> avec des employés du métier qui vous attire, ainsi que de demander à passer un entretien.\
 **-** D'un autre côté, vous pouvez également passer par <mark style="color:orange;">**notre Discord Légal**</mark> afin de remplir les candidatures prédéfinies.
 
-## <mark style="color:red;">Discord Légal de Iceland :</mark> [<mark style="color:red;">https://discord.gg/kNx7d9tHmT</mark>](https://discord.gg/kNx7d9tHmT)
-
 ## <mark style="color:blue;">**II - COMMENT SE COMPORTER / AGIR ?**</mark>  <a href="#bkmrk-comment-ce-comporter" id="bkmrk-comment-ce-comporter"></a>
 
 &#x20;
