@@ -27,7 +27,7 @@
 
 * [📕 Prologue](serveur/prologue.md)
 * [📗 Création de son personnage](serveur/creation-de-son-personnage.md)
-* [👨‍🎓 Rejoindre l'équipe BigLife](serveur/rejoindre-lequipe-biglife.md)
+* [👨‍🎓 Rejoindre l'équipe Alystia](serveur/rejoindre-lequipe-alystia.md)
 * [💎 F.A.Q](serveur/f.a.q.md)
 
 ## 💬 Discord

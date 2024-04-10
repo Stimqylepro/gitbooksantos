@@ -6,7 +6,7 @@ Vous souhaitez diriger une entreprise ?\
 Votre demande <mark style="color:orange;">**doit comprendre :**</mark>
 {% endhint %}
 
-* Dossier personnalisé <mark style="color:orange;">**au serveur BigLife**</mark> _(tout dossier copier/coller se verra refuser)._\
+* Dossier personnalisé <mark style="color:orange;">**au serveur**</mark> Alystia _(tout dossier copier/coller se verra refuser)._\
 
 * Activité de l'entreprise
 * But de l'entreprise
