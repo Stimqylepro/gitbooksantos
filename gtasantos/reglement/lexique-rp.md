@@ -1,9 +1,9 @@
-# 🖊 Lexique RP
+# 🖊️ Lexique RP
 
 
 
 {% hint style="success" %}
-Cette page est le pilier principal du bon fonctionnement RolePlay sur Biglife. Il est créé pour donner une immersion et une cohérence réaliste à son jeu. Le règlement s'applique à tous et doit être respecté par tous.\
+Cette page est le pilier principal du bon fonctionnement RolePlay sur Alystia. Il est créé pour donner une immersion et une cohérence réaliste à son jeu. Le règlement s'applique à tous et doit être respecté par tous.\
 Merci de lire attentivement, il doit être appris et compris !
 {% endhint %}
 
@@ -34,7 +34,7 @@ C'est le fait de ne pas prendre en compte l'environnement dans lequel votre pers
 
 ## <mark style="color:blue;">**PowerGaming :**</mark>
 
-C'est le fait de réaliser en jeu des scènes physiquement irréalistes. Cela est interdit sur Biglife.\
+C'est le fait de réaliser en jeu des scènes physiquement irréalistes. Cela est interdit sur Alystia .\
 ( Exemple : Rouler en super-sportive en montagne, voir derrière soit, s'enfuir en étant menotté... )
 
 ## <mark style="color:blue;">**MétaGaming :**</mark>
@@ -157,7 +157,7 @@ Tout autre type de braquage se fait par la décision du staff sous dossier.&#x20
 ## <mark style="color:blue;">**Arme :**</mark>
 
 \- La vente, le prêt et le don d'arme est interdit sur le serveur. La procuration se fait au près du BlackMarket, merci d'ouvrir un ticket.\
-\- Les ventes de tout objet présent sur Biglife avec de l'argent réel est interdit.\
+\- Les ventes de tout objet présent sur Alystia avec de l'argent réel est interdit.\
 \- Tout membre des forces de l'ordre de San Andreas ( Los Santos/Sandy Shore/Blaine County ) est dans son droit de retiré toute arme possédez illégalement.\
 \- Pensez à garder des preuves de votre développement RP ( REC / Screen ) . Ces preuves servent à vous justifier auprès du staff en cas de problème de cohérence RP .
 
@@ -171,7 +171,7 @@ Tout autre type de braquage se fait par la décision du staff sous dossier.&#x20
 {% hint style="danger" %}
 **Message du staff !**\
 \
-Le règlement est obligatoire pour tous les joueurs de BigLife. Il doit être respecté lorsque vous vous connectez en jeu.\
+Le règlement est obligatoire pour tous les joueurs de Alystia. Il doit être respecté lorsque vous vous connectez en jeu.\
 \
 Le staff se réserve le droit de mettre la sanction qu'il souhaite s'il juge que vous n'avez pas respecté une règle ou qu'êtes à l'encontre de la méta du serveur. La sanction est plus ou moins lourde en fonction de votre antécédent et votre sérieux.\
 \
